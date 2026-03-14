@@ -1,0 +1,18 @@
+1. bayangkan kamu adalah seorang programmer yang ingin memngembangkan sebuah sistem . berikut adalah kasus yang akan kamu pecahkan buatkan sebuah sistem pengiriman barang bernama del express dimana program harus menerima input kode kota dan berat pqaket butet (kg) secara berulang program baru akan berhenti ketika user memasukkan kata  END pada bagian kode kota  kemudian diberikan logika berat dimana berat paket butet nnti akan diinput user kemudian berat paket ucok itu 3/2  x berat paket butet  kemudian ada daftar tarif kemudian ada promo diskon 10% diberikan jika total berat (ucok+butet) lebih dr 10 kg kemudian ada asuransi gratis diberikan khusus ut pengiriman ke luar pulau (jkt aatu SBY) berikut contoh input  dan output yang diharapkanMDN
+5
+JKT
+3
+BLG
+4
+END
+
+Output Struk Pembayaran yang terdiri dari: Kota tujuan, Berat paket Butet, Berat paket Ucok, Total berat, Total ongkos kirim, Informasi promo yang diperoleh, buatkan saya code program bahasa c nya  saya menggunakan tools visual studio codee dan compiler gcc kemudian code nya dalam satu fungsi main saja tida batasan batasan yg harus di perhatikan 
+2. bayangkan kamu adalah seorang programmer yang ingin memngembangkan sebuah sistem . berikut adalah kasus yang akan kamu pecahkan buatkan sebuah sistem pengiriman barang bernama del express dimana program harus menerima input kode kota dan berat pqaket butet (kg) secara berulang program baru akan berhenti ketika user memasukkan kata  END pada bagian kode kota  kemudian diberikan logika berat dimana berat paket butet nnti akan diinput user kemudian berat paket ucok itu 3/2  x berat paket butet  kemudian ada daftar tarif kemudian ada promo diskon 10% diberikan jika total berat (ucok+butet) lebih dr 10 kg kemudian ada asuransi gratis diberikan khusus ut pengiriman ke luar pulau (jkt aatu SBY) berikut contoh input  dan output yang diharapkanMDN
+5
+JKT
+3
+BLG
+4
+END
+
+Output Struk Pembayaran yang terdiri dari: Kota tujuan, Berat paket Butet, Berat paket Ucok, Total berat, Total ongkos kirim, Informasi promo yang diperoleh, buatkan saya code program bahasa c nya  saya menggunakan tools visual studio codee dan compiler gcc kemudian code nya dalam satu fungsi main saja tidak batasan batasan yg harus di perhatikan dan perangkat saya gunakan itu windows 

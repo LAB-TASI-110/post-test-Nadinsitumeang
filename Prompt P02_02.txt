@@ -1,0 +1,4 @@
+ promft 1 
+ bayangkan kamu adalah seorang programmer . kamu ingin mengembangkan sebuh sistem untuk menghitung jumlah  stok barang berdasarkan kategori .berikut ketentuan yang diberikan nanti users akan menginput jumlah data (N) , deret nilai stok dan kode kategori . kemudian diberikan barang dan jumlah nya itu dasi (sd) itu ada 22 pcs kemudian gula ada 85 pcs , rok pramuka 5 pcs dan minyak sebanyak 120 pcs output nya itu program harus menentukan  pola dari deret . buatkan saya kode program bahsa c nya hanya pada satu fungsi main saja  sayaa memggunakan tools visual studio code kemudian pada perangkat yg saya gunakan itu windows dan compilernya itu gcc tidak ada b atasan batasan negatif dan tidak perlu memaparkan hasil pemikiran  dan tak ada aturan aturan khusus yg harus dipenuhi 
+promft 2 
+kode kamu buat masih salah karena input stok barang ketiga tidak ada langsung skpi ke nama barang ke 4 tolong perbaikib
